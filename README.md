@@ -17,7 +17,6 @@ These apps can be run directly in the browser.
 - [Bramble](https://www.bramble.live/): Proximity chat app made by [Artery](https://artery.is/)
 - [Branch](https://branch.gg): Spatial conversations for remote work
 - [Brella](https://www.brella.io/): Virtual event hosting platform for enterprise
-- [Calla](https://calla.chat): Simple, open-source proximity video calls
 - [Campfire](https://campfire.to/): Hosted team socials with activities updated every week (Peloton business model)
 - [Chatmosphere](https://chatmosphere.cc/): Open-source proximity chat prototype
 - [CozyRoom](https://cozyroom.xyz): Peer-to-peer spatial audio environment
@@ -97,6 +96,7 @@ These apps require a VR headset to use.
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
 - [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
+- [Calla](https://calla.chat): Simple, open-source proximity video calls
 - [CubeChat](https://cubechat.io): Proximity call in 3D
 - [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
 - [Houseparty](https://houseparty.com/): Mobile app for video rooms and games with your friends
